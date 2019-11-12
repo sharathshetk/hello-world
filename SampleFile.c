@@ -1,3 +1,10 @@
 Hello World
 Printf("Hello World");
-Exit;
+
+Printf("Simplify lives");
+int a =100
+  if(i=0;i<a;i++){
+    Print("A series of Number")
+  }
+
+Exit
